@@ -18,7 +18,7 @@ To develop the Library Management System using Star UML
 
 5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
-UML DIAGRAMS
+# UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
